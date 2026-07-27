@@ -2,14 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9CFF&center=true&vCenter=true&width=600&height=45&lines=Nazzas+Ibn+Shams+Unib;Business+Development+Executive+%40+NidusLab;Textile+Engineering+%40+BUFT;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17) &nbsp; [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
 
-[![Profile Views](https://custom-icon-badges.demolab.com/badge/Profile%20Views-2E9CFF?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/nazzasunib)
-&nbsp;
-[![Followers](https://custom-icon-badges.demolab.com/github/followers/nazzasunib?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/nazzasunib?tab=followers)
+[![Profile Views](https://custom-icon-badges.demolab.com/badge/Profile%20Views-2E9CFF?style=for-the-badge&logo=eye&logoColor=white)](https://github.com/nazzasunib) &nbsp; [![Followers](https://custom-icon-badges.demolab.com/github/followers/nazzasunib?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/nazzasunib?tab=followers)
 
 </div>
 
@@ -36,13 +31,7 @@ I'm a final-year **Textile Engineering** student at **BGMEA University of Fashio
 **Business Development Executive**
 Identifying growth opportunities, building client & partner relationships, supporting business strategy.
 
-[![Website](https://img.shields.io/badge/-Website-2E9CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.niduslab.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/niduslab-usa/)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/niduslab)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/niduslabusa)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.com/@niduslabusa)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@niduslabusa)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/niduslab)
+[![Website](https://img.shields.io/badge/-Website-2E9CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.niduslab.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/niduslab-usa/) &nbsp; [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/niduslab) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/niduslabusa) &nbsp; [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.com/@niduslabusa) &nbsp; [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@niduslabusa) &nbsp; [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/niduslab)
 
 </div>
 
@@ -74,19 +63,11 @@ Analyzed fabric types, yarn counts, and fabric quality; documented findings in a
 
 **Core Skills**
 
-![Business Development](https://img.shields.io/badge/Business%20Development-2E9CFF?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-2E9CFF?style=for-the-badge)
-![Leadership](https://img.shields.io/badge/Leadership-2E9CFF?style=for-the-badge)
-![Organization](https://img.shields.io/badge/Organizational%20Skills-2E9CFF?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E9CFF?style=for-the-badge)
-![Adaptability](https://img.shields.io/badge/Adaptability-2E9CFF?style=for-the-badge)
-![Media Management](https://img.shields.io/badge/Media%20Management-2E9CFF?style=for-the-badge)
+![Business Development](https://img.shields.io/badge/Business%20Development-2E9CFF?style=for-the-badge) &nbsp; ![Communication](https://img.shields.io/badge/Communication-2E9CFF?style=for-the-badge) &nbsp; ![Leadership](https://img.shields.io/badge/Leadership-2E9CFF?style=for-the-badge) &nbsp; ![Organization](https://img.shields.io/badge/Organizational%20Skills-2E9CFF?style=for-the-badge) &nbsp; ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E9CFF?style=for-the-badge) &nbsp; ![Adaptability](https://img.shields.io/badge/Adaptability-2E9CFF?style=for-the-badge) &nbsp; ![Media Management](https://img.shields.io/badge/Media%20Management-2E9CFF?style=for-the-badge)
 
 **Software**
 
-[![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
-[![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
+[![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#) &nbsp; [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) &nbsp; [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
 
 <br>
 
@@ -94,10 +75,7 @@ Analyzed fabric types, yarn counts, and fabric quality; documented findings in a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17) &nbsp; [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib) &nbsp; [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
 
 </div>
 
