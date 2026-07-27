@@ -54,9 +54,6 @@ Assisted in organizing and managing a national-level job fair.
 **🎤 BUFT Debate Club** — *Event Organizer & Volunteer, Tarunner Utsob 2025*
 Organized event activities and coordinated volunteers.
 
-**🎤 BUFT Debate Club2** — *Event Organizer & Volunteer, Tarunner Utsob 2025*
-Organized event activities and coordinated volunteers.
-
 **📊 Academic Project — Textile Fabric Analysis**
 Analyzed fabric types, yarn counts, and fabric quality; documented findings in a technical report.
 
