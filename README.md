@@ -1,12 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9CFF&center=true&vCenter=true&width=600&height=45&lines=Nazzas+Ibn+Shams+Unib;Business+Development+Executive+%40+NidusLab;Textile+Engineering+%40+BUFT;Always+learning%2C+always+building)](https://git.io/typing-svg)
+# Nazzas Ibn Shams Unib
 
-### Nazzas Ibn Shams Unib — Business Development Executive @ NidusLab | Textile Engineering @ BUFT
+**Business Development Executive @ NidusLab | Textile Engineering @ BUFT**
+
+_Always learning, always building_
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
 
-[![Profile Views](https://custom-icon-badges.demolab.com/badge/Profile%20Views-2E9CFF?style=flat-square&logo=eye&logoColor=white)](https://github.com/nazzasunib) [![Followers](https://custom-icon-badges.demolab.com/github/followers/nazzasunib?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=Follow&logoColor=white)](https://github.com/nazzasunib?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=nazzasunib&color=2E9CFF&style=flat-square&label=Profile+Views) [![Followers](https://img.shields.io/github/followers/nazzasunib?color=236ad3&labelColor=1155ba&style=flat-square&logo=github&label=Follow)](https://github.com/nazzasunib?tab=followers)
 
 </div>
 
