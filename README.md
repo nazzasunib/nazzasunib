@@ -7,25 +7,43 @@
 
 &nbsp;
 
-<a href="#about"><img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge&logoColor=white" /></a>
-<a href="#experience"><img src="https://img.shields.io/badge/Experience-3B82F6?style=for-the-badge&logoColor=white" /></a>
-<a href="#skills"><img src="https://img.shields.io/badge/Skills-60A5FA?style=for-the-badge&logoColor=white" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logoColor=white" /></a>
-<a href="#stats"><img src="https://img.shields.io/badge/GitHub_Stats-3B82F6?style=for-the-badge&logoColor=white" /></a>
-<a href="#contact"><img src="https://img.shields.io/badge/Contact-60A5FA?style=for-the-badge&logoColor=white" /></a>
+<table>
+<tr>
+<td valign="top" width="34%" align="left">
 
-&nbsp;
+<b>🧭 Navigate</b><br><br>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://nazzasunib.vercel.app/)
+<a href="#about"><img src="https://img.shields.io/badge/1.%20About-2563EB?style=for-the-badge&logoColor=white" /></a><br>
+<a href="#experience"><img src="https://img.shields.io/badge/2.%20Experience-3B82F6?style=for-the-badge&logoColor=white" /></a><br>
+<a href="#skills"><img src="https://img.shields.io/badge/3.%20Skills-60A5FA?style=for-the-badge&logoColor=white" /></a><br>
+<a href="#projects"><img src="https://img.shields.io/badge/4.%20Projects-2563EB?style=for-the-badge&logoColor=white" /></a><br>
+<a href="#stats"><img src="https://img.shields.io/badge/5.%20GitHub%20Stats-3B82F6?style=for-the-badge&logoColor=white" /></a><br>
+<a href="#contact"><img src="https://img.shields.io/badge/6.%20Contact-60A5FA?style=for-the-badge&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=nazzasunib&label=Profile%20Views&color=2563EB&style=flat-square" />
-<img src="https://img.shields.io/github/followers/nazzasunib?label=Followers&color=2563EB&style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-3B82F6?style=flat-square" />
-<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-60A5FA?style=flat-square&logo=googlemaps&logoColor=white" />
+</td>
+<td valign="top" width="33%" align="center">
+
+<b>🌐 Social</b><br><br>
+
+[![LinkedIn](https://img.shields.io/badge/1.%20LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17)<br>
+[![Facebook](https://img.shields.io/badge/2.%20Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib)<br>
+[![Instagram](https://img.shields.io/badge/3.%20Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib)<br>
+[![Gmail](https://img.shields.io/badge/4.%20Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)<br>
+[![Portfolio](https://img.shields.io/badge/5.%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://nazzasunib.vercel.app/)
+
+</td>
+<td valign="top" width="33%" align="right">
+
+<b>📈 Snapshot</b><br><br>
+
+<img src="https://komarev.com/ghpvc/?username=nazzasunib&label=1.+Profile+Views&color=2563EB&style=for-the-badge" /><br>
+<img src="https://img.shields.io/github/followers/nazzasunib?label=2.+Followers&color=3B82F6&style=for-the-badge&logo=github" /><br>
+<img src="https://img.shields.io/badge/3.%20Status-Available-60A5FA?style=for-the-badge" /><br>
+<img src="https://img.shields.io/badge/4.%20Location-Dhaka%2C%20BD-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -41,11 +59,38 @@ I'm a final-year **Textile Engineering** student at **BGMEA University of Fashio
 I'm also layering in web technologies and AI, because the future of textile and apparel manufacturing runs through data and automation as much as it runs through yarn count and GSM.
 
 <div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
 
-| 🏢 Role | 🎓 Education | 🏭 Experience | 🌍 Base |
-|:---:|:---:|:---:|:---:|
-| Business Development Executive @ NidusLab | B.Sc. Textile Engineering, BUFT (Batch 222) | Spinning · Knitting · Dyeing · Apparel | Dhaka, Bangladesh |
+![Role](https://img.shields.io/badge/🏢_ROLE-2563EB?style=for-the-badge&labelColor=1E3A8A)
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=210&height=55&lines=Business+Dev.+Executive;%40+NidusLab" />
 
+</td>
+<td align="center" width="25%">
+
+![Education](https://img.shields.io/badge/🎓_EDUCATION-3B82F6?style=for-the-badge&labelColor=1E3A8A)
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=210&height=55&lines=B.Sc.+Textile+Eng.%2C+BUFT;Batch+222" />
+
+</td>
+<td align="center" width="25%">
+
+![Experience](https://img.shields.io/badge/🏭_EXPERIENCE-60A5FA?style=for-the-badge&labelColor=1E3A8A)
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=210&height=55&lines=Spinning+%C2%B7+Knitting;Dyeing+%C2%B7+Apparel" />
+
+</td>
+<td align="center" width="25%">
+
+![Base](https://img.shields.io/badge/🌍_BASE-2563EB?style=for-the-badge&labelColor=1E3A8A)
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=2563EB&center=true&vCenter=true&multiline=true&repeat=true&width=210&height=55&lines=Dhaka%2C+Bangladesh" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <details>
