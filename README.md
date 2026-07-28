@@ -1,48 +1,128 @@
+<a name="home"></a>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9CFF&center=true&vCenter=true&width=600&height=45&lines=Nazzas+Ibn+Shams+Unib;Business+Development+Executive+%40+NidusLab;Textile+Engineering+%40+BUFT;Always+learning%2C+always+building)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:60A5FA&height=220&section=header&text=Nazzas%20Ibn%20Shams%20Unib&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Business%20Development%20Executive%20@%20NidusLab%20%20|%20%20Textile%20Engineering%20@%20BUFT&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### Nazzas Ibn Shams Unib — Business Development Executive @ NidusLab | Textile Engineering @ BUFT
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=650&height=50&lines=Threading+manufacturing+into+business+growth;Textile+Engineer+turned+Business+Developer;Building+relationships%2C+one+deal+at+a+time;Always+learning%2C+always+building" alt="Typing SVG"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
+&nbsp;
 
-[![Profile Views](https://custom-icon-badges.demolab.com/badge/Profile%20Views-2E9CFF?style=flat-square&logo=eye&logoColor=white)](https://github.com/nazzasunib) [![Followers](https://custom-icon-badges.demolab.com/github/followers/nazzasunib?color=236ad3&labelColor=1155ba&style=flat-square&logo=person-add&label=Follow&logoColor=white)](https://github.com/nazzasunib?tab=followers)
+<a href="#about"><img src="https://img.shields.io/badge/About-2563EB?style=for-the-badge&logoColor=white" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/Experience-3B82F6?style=for-the-badge&logoColor=white" /></a>
+<a href="#skills"><img src="https://img.shields.io/badge/Skills-60A5FA?style=for-the-badge&logoColor=white" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logoColor=white" /></a>
+<a href="#stats"><img src="https://img.shields.io/badge/GitHub_Stats-3B82F6?style=for-the-badge&logoColor=white" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-60A5FA?style=for-the-badge&logoColor=white" /></a>
+
+&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://nazzasunib.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=nazzasunib&label=Profile%20Views&color=2563EB&style=flat-square" />
+<img src="https://img.shields.io/github/followers/nazzasunib?label=Followers&color=2563EB&style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-3B82F6?style=flat-square" />
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-60A5FA?style=flat-square&logo=googlemaps&logoColor=white" />
 
 </div>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<a name="about"></a>
+## 🧵 About Me
+
+<img align="right" width="260" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&multiline=true&width=280&height=140&lines=Spinning+floor+by+day...;Boardroom+by+design;Two+disciplines%2C+one+thread." />
+
+I'm a final-year **Textile Engineering** student at **BGMEA University of Fashion & Technology (BUFT)**, currently working as a **Business Development Executive at [NidusLab](https://www.niduslab.com)**. I move comfortably between the spinning floor and the boardroom — I understand how a product is built on the factory floor, and I use that grounding to build relationships and drive growth on the business side.
+
+I'm also layering in web technologies and AI, because the future of textile and apparel manufacturing runs through data and automation as much as it runs through yarn count and GSM.
+
+<div align="center">
+
+| 🏢 Role | 🎓 Education | 🏭 Experience | 🌍 Base |
+|:---:|:---:|:---:|:---:|
+| Business Development Executive @ NidusLab | B.Sc. Textile Engineering, BUFT (Batch 222) | Spinning · Knitting · Dyeing · Apparel | Dhaka, Bangladesh |
+
+</div>
+
+<details>
+<summary><b>▶ Full Story — How Two Disciplines Became One Career</b></summary>
 <br>
 
-## 👋 About Me
+I'm a final-year Textile Engineering student at BGMEA University of Fashion & Technology (BUFT), with hands-on internship experience inside a composite textile factory — covering spinning, knitting, dyeing and apparel operations from the inside.
 
-I'm a final-year **Textile Engineering** student at **BGMEA University of Fashion & Technology (BUFT)**, currently working as a **Business Development Executive at [NidusLab](https://www.niduslab.com)**. I sit at the intersection of manufacturing knowledge and business growth — I understand how products are made on the floor, and I use that to build relationships and drive growth on the business side.
+Alongside the technical side, I've gravitated toward the business end of the industry: order costing, buyer communication and marketing during my internship, plus leadership roles across four university clubs where I managed media, events and volunteer coordination.
 
-- 🏢 Currently working at **NidusLab** as a Business Development Executive
-- 🎓 Final-year B.Sc. student in Textile Engineering (Batch 222), BUFT
-- 🏭 Internship experience across Spinning, Knitting, Dyeing & Apparel operations
-- 🌍 Based in Dhaka, Bangladesh
+**Quick facts:**
+- 🏭 4 club leadership roles across BUFT
+- 🎓 B.Sc. journey started in 2022, Batch 222
+- 🌐 3+ domains blended: textile, business, technology
 - 💬 Fluent in Bangla and English
 
-<br>
+</details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<a name="experience"></a>
 ## 💼 Current Work
 
 <div align="center">
+<table>
+<tr>
+<td width="100%">
 
-[![NidusLab](https://img.shields.io/badge/NidusLab-2E9CFF?style=for-the-badge)](https://www.niduslab.com)
+<div align="center">
 
-**Business Development Executive**
-Identifying growth opportunities, building client & partner relationships, supporting business strategy.
+[![NidusLab](https://img.shields.io/badge/NidusLab-2563EB?style=for-the-badge)](https://www.niduslab.com)
 
-[![Website](https://img.shields.io/badge/-Website-2E9CFF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.niduslab.com) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/niduslab-usa/) &nbsp; [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/niduslab) &nbsp; [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/niduslabusa) &nbsp; [![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.com/@niduslabusa) &nbsp; [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@niduslabusa) &nbsp; [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/niduslab)
+### Business Development Executive
+*Identifying growth opportunities, building client & partner relationships, supporting business strategy.*
+
+[![Website](https://img.shields.io/badge/-Website-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://www.niduslab.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/niduslab-usa/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/niduslab)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/niduslabusa)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://threads.com/@niduslabusa)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@niduslabusa)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/niduslab)
 
 </div>
 
+</td>
+</tr>
+</table>
+</div>
+
+### 🕒 Timeline
+
+```text
+2022 ─┬─ B.Sc. Textile Engineering begins @ BUFT (Batch 222)
+      │
+2023 ─┼─ Press & Media roles begin across BUFT clubs
+      │
+2024 ─┼─ Internship @ Rising Knit Textiles Ltd
+      │  (Spinning · Knitting · Dyeing · Apparel · Merchandising)
+      │
+2025 ─┼─ Volunteer & Event Organizer
+      │  (Career Development Club · Debate Club — Tarunner Utsob)
+      │
+2026 ─┴─ Business Development Executive @ NidusLab (Current)
+```
+
+<details>
+<summary><b>▶ Internship — Rising Knit Textiles Ltd</b></summary>
 <br>
 
-## 🎓 Background & Leadership
+Integrated workflow covering **Spinning, Knitting, Dyeing, and Apparel** units, plus merchandising exposure — order costing, buyer communication, and marketing that keeps a factory's pipeline full.
 
-**🏭 Internship — Rising Knit Textiles Ltd**
-Integrated workflow covering Spinning, Knitting, Dyeing, and Apparel units; plus merchandising exposure — order costing, buyer communication, and marketing.
+</details>
+
+<details>
+<summary><b>▶ Leadership & Volunteering</b></summary>
+<br>
 
 **📣 BUFT Textile Club** — *Assistant Press & Media Secretary*
 Managed social media content and event promotions.
@@ -56,48 +136,148 @@ Assisted in organizing and managing a national-level job fair.
 **🎤 BUFT Debate Club** — *Event Organizer & Volunteer, Tarunner Utsob 2025*
 Organized event activities and coordinated volunteers.
 
-**📊 Academic Project — Textile Fabric Analysis**
+</details>
+
+<details>
+<summary><b>▶ Academic Project — Textile Fabric Analysis</b></summary>
+<br>
+
 Analyzed fabric types, yarn counts, and fabric quality; documented findings in a technical report.
 
-<br>
+</details>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<a name="skills"></a>
 ## 🛠️ Skills & Tools
 
-**Core Skills**
-
-![Business Development](https://img.shields.io/badge/Business%20Development-2E9CFF?style=for-the-badge) &nbsp; ![Communication](https://img.shields.io/badge/Communication-2E9CFF?style=for-the-badge) &nbsp; ![Leadership](https://img.shields.io/badge/Leadership-2E9CFF?style=for-the-badge) &nbsp; ![Organization](https://img.shields.io/badge/Organizational%20Skills-2E9CFF?style=for-the-badge) &nbsp; ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E9CFF?style=for-the-badge) &nbsp; ![Adaptability](https://img.shields.io/badge/Adaptability-2E9CFF?style=for-the-badge) &nbsp; ![Media Management](https://img.shields.io/badge/Media%20Management-2E9CFF?style=for-the-badge)
-
-**Software**
-
-[![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#) &nbsp; [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#) &nbsp; [![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
-
+<details open>
+<summary><b>▶ Business Development</b></summary>
 <br>
 
-## 🤝 Connect With Me
+![Sales Strategy](https://img.shields.io/badge/Sales%20Strategy-2563EB?style=for-the-badge)
+![Market Research](https://img.shields.io/badge/Market%20Research-2563EB?style=for-the-badge)
+![Client Acquisition](https://img.shields.io/badge/Client%20Acquisition-2563EB?style=for-the-badge)
+![B2B Communication](https://img.shields.io/badge/B2B%20Communication-2563EB?style=for-the-badge)
+![Negotiation](https://img.shields.io/badge/Negotiation-2563EB?style=for-the-badge)
+![Partnerships](https://img.shields.io/badge/Business%20Growth%20%26%20Partnerships-2563EB?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>▶ Textile Engineering</b></summary>
+<br>
+
+![Spinning](https://img.shields.io/badge/Spinning%20%26%20Knitting-3B82F6?style=for-the-badge)
+![Dyeing](https://img.shields.io/badge/Dyeing-3B82F6?style=for-the-badge)
+![Quality Control](https://img.shields.io/badge/Quality%20Control-3B82F6?style=for-the-badge)
+![Apparel](https://img.shields.io/badge/Apparel%20%26%20Garments-3B82F6?style=for-the-badge)
+![Manufacturing](https://img.shields.io/badge/Textile%20Manufacturing-3B82F6?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>▶ Leadership & Soft Skills</b></summary>
+<br>
+
+![Leadership](https://img.shields.io/badge/Leadership-60A5FA?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-60A5FA?style=for-the-badge)
+![Organization](https://img.shields.io/badge/Organizational%20Skills-60A5FA?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-60A5FA?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-60A5FA?style=for-the-badge)
+![Media Management](https://img.shields.io/badge/Media%20Management-60A5FA?style=for-the-badge)
+
+</details>
+
+<details>
+<summary><b>▶ Software & Productivity</b></summary>
+<br>
+
+[![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<a name="projects"></a>
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
+| Project | Description | Status |
+|:---|:---|:---:|
+| 🧾 **Textile Fabric Analysis** | Academic study analyzing fabric types, yarn counts, and fabric quality, documented in a full technical report. | ✅ Completed |
+| 🌐 **Personal Portfolio** | Landing-page style portfolio bridging textile manufacturing, business development, and technology. [Visit →](https://nazzasunib.vercel.app/) | 🟢 Live |
+| 🧑‍💻 **This GitHub Profile** | The interactive, Royal-Blue-themed profile you're reading right now. | 🟢 Live |
+
+</div>
+
+> More projects landing soon — check back or connect with me for updates.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+<a name="stats"></a>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nazzasunib&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=60A5FA&icon_color=2563EB&text_color=FFFFFF&bg_color=0D1117" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazzasunib&layout=compact&theme=tokyonight&hide_border=true&title_color=60A5FA&text_color=FFFFFF&bg_color=0D1117" height="165" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazzasunib&theme=tokyonight&hide_border=true&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA" alt="Streak Stats" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazzasunib&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&hide_border=true" alt="Activity Graph" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nazzasunib&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="100%"/>
+
+</div>
+
+<details>
+<summary><b>▶ Coding Focus & Productivity (placeholder — connect WakaTime to populate)</b></summary>
+<br>
+
+```text
+Current Focus        Business tooling, portfolio maintenance, GitHub automation
+Weekly Breakdown      ⏳ Connect WakaTime for live weekly stats
+Coding Time            ⏳ Connect WakaTime for live coding-time stats
+```
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+
+## 🔊 A Quick Note on Interactivity
+
+GitHub-rendered READMEs are sandboxed markdown/HTML — they don't execute JavaScript and can't trigger audio on click, so a "click sound effect" isn't something this file can actually do. To keep the interactive feel without faking anything unsupported, this profile leans on:
+
+- **Hover-responsive badges** (shields.io badges shift shade on hover in most browsers)
+- **`<details>` / `<summary>` expandables** that open/close on click
+- **Animated GIFs and SVGs** (typing text, wave banners, gradient dividers) for motion
+- **Anchor-link navigation** at the top for a "jump to section" feel
+
+<a name="contact"></a>
+## 📬 Contact
+
+<div align="center">
+
+I'm open to internships, entry-level roles, and collaborations across textile, business development, and tech.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nazzas-ibn-shams-unib17)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/It.is.me.Unib)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nazzas_unib)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mdnazzas@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://nazzasunib.vercel.app/)
 
 </div>
 
 <br>
 
-## 📊 Stats & Activity
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:2563EB,100:1E3A8A&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" width="100%"/>
 
 <div align="center">
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nazzasunib&theme=tokyonight&hide_border=true)](https://github.com/nazzasunib)
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazzasunib&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazzasunib&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nazzasunib&bg_color=1F222E&color=2E9CFF&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-
+<i>"Spinning threads into fabric, and ideas into business growth." 🧵📈</i>
+<br><br>
+<a href="#home">⬆ Back to Top</a>
 </div>
-
-<br>
-
----
-
-<div align="center"><i>Thanks for stopping by — always open to connecting! 🚀</i></div>
